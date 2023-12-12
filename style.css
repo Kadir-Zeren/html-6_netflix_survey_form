@@ -29,3 +29,13 @@ body {
   font-size: 50px;
   letter-spacing: 0.05em;
 }
+span {
+  color: #ff0000;
+}
+
+#description {
+  font-family: "Sorts Mill Goudy", serif;
+}
+#header {
+  text-align: center;
+}
