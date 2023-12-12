@@ -1,3 +1,4 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap"); */
 * {
   margin: 0;
   padding: 0;
@@ -21,4 +22,10 @@ body {
   margin: auto;
   margin-top: 30px;
   /* padding-bottom: 1px; */
+}
+#title {
+  color: #ffffff;
+  font-family: "Bowlby One SC", cursive;
+  font-size: 50px;
+  letter-spacing: 0.05em;
 }
